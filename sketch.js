@@ -25,7 +25,6 @@ function preload (){
 function setup() { 
   createCanvas(400, 620);
 	getNewWords();
-surface.setResizable(true);
 }
 //function keyPressed() {
   //saveFrames("out", "png", 1, 25);
